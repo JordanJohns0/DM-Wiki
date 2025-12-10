@@ -1,1 +1,0 @@
-A human who's mouth is sewn shut.
