@@ -1,5 +1,3 @@
-## TODO:
-- Render NPCs https://youtu.be/pb3id4Czkec?si=bqawVv1vSpSokM1i
 
 # Explanation for new campaign
 - Last campaign, you all entered the Shadowfell in search for an Elemental Shard. While you were there, everyone died from the demon lord that lives there (lol)
