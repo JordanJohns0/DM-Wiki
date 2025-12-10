@@ -1,2 +1,0 @@
-- [[Thyrsia]]
-- [[The Granite Mountains]]
