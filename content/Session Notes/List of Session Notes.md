@@ -16,3 +16,6 @@ Note that for season 1 I was not using my current system, so they may be even mo
 - [[Cult of the Mindflayer 3]]
 - [[Cult of the Mindflayer 2]]
 - [[Cult of the Mindflayer 1]]
+
+I also have this from season 1:
+- [[Season 1 Plot Points]]

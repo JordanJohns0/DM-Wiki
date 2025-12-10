@@ -1,19 +1,9 @@
 Erastos is a Faunaseer, which is an occupation that involves researching and learning about animals. Erastos is a collector, devoting his life to finding and preserving animals that are fantastical, rare, or otherwise endangered.
 
-He needs to pay the bills somehow, though. He occasionally holds an auction, which gathers quite the crowd. He usually hosts this on special days, such as the Day of Dionysus or the Olympic Games.
-
-## Interaction with {Owen}
-
-Erastos traded for a giant, sentient badger from {Owen's Character}, only to find the animal missing the next day. He believes it to have escaped, and is ashamed of what happened. If/When he sees {Owen's Character} again, he will shamefully apologize about what happened.
-
-
 ## Living Arrangements
+Erastos lives in the forest north of [[Thyrsia]], in a humble home he built himself. He has various cages of all sizes surrounding his home, containing all sorts of creatures. He feeds them all and treats them all well.
 
-Erastos lives in the forest north of [[Thyrsia]], in a humble home he built himself in the crater where [[Talos]] landed after [[The Divine Sundering]]. He has various cages of all sizes surrounding his home, containing all sorts of creatures. He feeds them all and treats them all well.
-
-
-## Minor Creatures in his possession
-
+## Creatures in his possession
 - Laconian Fish
 	- A silver-scaled fish with the ability to swim through the air as if it were water.
 - Nymph Nectar Bee
@@ -36,16 +26,8 @@ Erastos lives in the forest north of [[Thyrsia]], in a humble home he built hims
 - Ice Mephit 
 	- A small, impish creature composed of ice and snow. It's capable of creating tiny snowstorms around it.
 
-## Minor Creatures previously in his possession
+## Creatures previously in his possession
 - Sphinx Kitten
 	- A young feline with a human face and wings. It’s quite playful and loves to ask "riddles," though at this age, they are more nonsensical questions than true riddles.
 - **Phoenix Egg** 
 	- This is sold to [[Vargus Ironthane]] in [[Cult of the Mindflayer 1]].
-
-## Major Creatures in his possession
-
-- Griffon
-- Gold Dragon Wyrmling
-- [[Talos]]
-	- Talos is a giant automaton created by [[Hephaestus]] in order to protect [[The Godspark Matrix Array]]. 
-	- Talos is currently deactivated. Erastos wishes to someday restore him to what he once was, and considers it akin to saving an animal from extinction.
