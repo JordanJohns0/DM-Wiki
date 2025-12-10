@@ -55,3 +55,7 @@ They want to go to [[Il'kessath]].
 		- Some citizens saw a group of people (the party) create a Panther out of thin air. There is now a bounty out for the party
 	- [[Tasilis Nikolaidis]] has made a pact with Hades and now possesses great power. He seeks revenge against the party, specifically Nathan.
 	- [[Vargus Ironthane]] took advantage of [[Torvin Inkhand]]'s craziness and stole [[The Elemental Shards#Shard of Knowledge|Shard of Knowledge]]
+
+
+
+#Season1

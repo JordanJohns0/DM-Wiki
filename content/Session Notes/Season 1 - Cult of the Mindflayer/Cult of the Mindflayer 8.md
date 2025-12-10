@@ -1,5 +1,5 @@
 
-Alright here's the deal. You've been improvising the last few sessions and the plot has become off the rails. This is what's going to happen:
+THIS SESSION DID NOT HAPPEN. The campaign was scrapped, and we started a new campaign: [[Shadows Over Ironspire 1]]
 
 No plot rollback
 - Finish the current plot quickly. Tie it to one of the shards
@@ -25,5 +25,7 @@ Vargus "Dies"
 - Right before he dies he uses the mind stone(?) to teleport away
 	- A dr strange portal that players can look inside to see where he went
 	- FIRE LAND!!!
-		- Then players must go there to get the crysal before he does
-	- 
+		- Then players must go there to get the crystal before he does
+
+
+#Season1

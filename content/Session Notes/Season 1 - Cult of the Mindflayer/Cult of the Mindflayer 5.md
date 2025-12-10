@@ -92,5 +92,4 @@ A mystery still remains: Where did Thibble get the knowledge and the resources t
 
 
 
-
-# TTD
+#Season1

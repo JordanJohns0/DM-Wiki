@@ -26,3 +26,5 @@ Everyone who melds with the mind flayer has their left eye tainted, turning inky
 - What happens to the bandit survivor? ([[Tasilis Nikolaidis]])
 - [[Aello Vellenthar]] has big knockers
 	- Thanks Nathan
+
+#Season1

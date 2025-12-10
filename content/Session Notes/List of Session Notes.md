@@ -7,6 +7,7 @@ Here's a list of the sessions in descending chronological order:
 - [[Shadows Over Ironspire 1|Shadows Over Ironspire 1]]
 
 ## Season 1
+Note that for season 1 I was not using my current system, so they may be even more scattered than usual.
 - [[Cult of the Mindflayer 8]]
 - [[Cult of the Mindflayer 7]]
 - [[Cult of the Mindflayer 6]]
