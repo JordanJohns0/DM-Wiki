@@ -1,1 +1,0 @@
-A scrawny [[Human]] [[Farmer]] who was travelling to [[Ironspire]] for safety during [[Shadows Over Ironspire 1]]. 
