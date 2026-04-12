@@ -55,6 +55,17 @@
   text-decoration: underline;
 }
 
+.tag-container {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  justify-content: flex-end;
+}
+
+/* override flex splitting from row layout */
+.tag-container a {
+  flex: none;
+}
 
 html {
   scroll-behavior: smooth;
