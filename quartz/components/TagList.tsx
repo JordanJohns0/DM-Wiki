@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 import { resolveRelative } from "../util/path"
 
-const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+const TagList: QuartzComponent = ({ fileData, displayClass, allFiles }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
   if (!fm) return null
 
@@ -20,11 +20,34 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
       .replace(/_/g, " ")
       .replace(/\b\w/g, (c) => c.toUpperCase())
 
-  const stripMarkdownLink = (value: string) =>
-    value.replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
+  const stripMarkdownLink = (value: string) => {
+    return value.replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
+  }
 
   const isExternalMarkdownLink = (value: string) =>
     /^\[.*\]\(https?:\/\/.*\)$/.test(value)
+
+  // Resolve a wiki link slug to a full path by searching allFiles
+  const resolveWikiLink = (rawSlug: string): string => {
+    // Strip heading anchors e.g. [[Page#Section]] → "Page"
+    const slugName = rawSlug.split("#")[0].toLowerCase()
+
+    // Find a file whose slug ends with the target (case-insensitive)
+    const match = allFiles.find((f) => {
+      const fileslug = f.slug ?? ""
+      return (
+        fileslug.toLowerCase() === slugName ||
+        fileslug.toLowerCase().endsWith("/" + slugName)
+      )
+    })
+
+    if (match?.slug) {
+      return resolveRelative(fileData.slug!, match.slug)
+    }
+
+    // Fallback: just resolve relative as before
+    return resolveRelative(fileData.slug!, rawSlug as any)
+  }
 
   const entries = Object.entries(fm).filter(([key, value]) => {
     if (excludedKeys.has(key)) return false
@@ -38,7 +61,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   return (
     <ul class={classNames(displayClass, "infobox")}>
       {entries.flatMap(([key, value]) => {
-        /* ---------------- TAGS ---------------- */
+        // TAGS
         if (key === "tags" && Array.isArray(value)) {
           return [
             <li>
@@ -57,26 +80,25 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           ]
         }
 
-        /* ---------------- OBISIDIAN WIKI LINKS [[Page]] ---------------- */
+        // Obsidian wiki link [[Page]] or [[Page#Anchor]]
         if (typeof value === "string" && value.startsWith("[[") && value.endsWith("]]")) {
-          const target = value.slice(2, -2)
-
-          const linkDest = resolveRelative(
-            fileData.slug!,
-            target as any
-          )
+          const inner = value.slice(2, -2)
+          // Support [[Page|Display Text]]
+          const [slugPart, displayPart] = inner.split("|")
+          const displayText = displayPart ?? slugPart.split("#")[0]
+          const linkDest = resolveWikiLink(slugPart)
 
           return [
             <li>
               <strong>{formatKey(key)}:</strong>{" "}
               <a href={linkDest} class="internal">
-                {target}
+                {displayText}
               </a>
             </li>
           ]
         }
 
-        /* ---------------- EXTERNAL MARKDOWN LINKS [text](url) ---------------- */
+        // External markdown link [text](url)
         if (typeof value === "string" && isExternalMarkdownLink(value)) {
           const text = stripMarkdownLink(value)
           const url = value.match(/\((https?:\/\/[^)]+)\)/)?.[1]
@@ -95,25 +117,21 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           ]
         }
 
-        /* ---------------- ARRAYS ---------------- */
-        if (Array.isArray(value)) {
-          return [
-            <li>
-              <strong>{formatKey(key)}:</strong>{" "}
-              {value.map((v, i) => (
-                <span>
-                  {String(v)}
-                  {i < value.length - 1 ? ", " : ""}
-                </span>
-              ))}
-            </li>
-          ]
+        // Array values
+        let displayValue: any = value
+        if (typeof value === "string") {
+          displayValue = stripMarkdownLink(value)
+        } else if (Array.isArray(value)) {
+          displayValue = value.map((v) =>
+            typeof v === "string" ? stripMarkdownLink(v) : String(v)
+          ).join(", ")
+        } else if (typeof value === "object") {
+          displayValue = JSON.stringify(value)
         }
 
-        /* ---------------- DEFAULT ---------------- */
         return [
           <li>
-            <strong>{formatKey(key)}:</strong> {String(value)}
+            <strong>{formatKey(key)}:</strong> {String(displayValue)}
           </li>
         ]
       })}
@@ -121,60 +139,20 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   )
 }
 
-/* ---------------- CSS ---------------- */
 TagList.css = `
-.infobox {
+.tags {
   list-style: none;
+  display: flex;
+  padding-left: 0;
+  gap: 0.4rem;
   margin: 1rem 0;
-  padding: 0.75rem 1rem;
-
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
-
-  max-width: 320px;
-
-  background: var(--light);
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
-
-  font-size: 0.9rem;
-}
-
-.infobox > li {
-  margin: 0;
-  display: flex;
-  justify-content: space-between;
-  gap: 0.75rem;
-
-  word-break: break-word;
-}
-
-.infobox strong {
-  flex: 0 0 40%;
-  font-weight: 600;
-  color: var(--dark);
-}
-
-.infobox a {
-  color: var(--secondary);
-  text-decoration: none;
-}
-
-.infobox a:hover {
-  text-decoration: underline;
-}
-
-/* TAGS */
-.tag-container {
-  display: inline-flex;
   flex-wrap: wrap;
-  gap: 0.35rem;
-  justify-content: flex-end;
 }
 
-.tag-container a {
-  flex: none;
+.tags > li {
+  display: inline-block;
+  white-space: nowrap;
+  margin: 0;
 }
 
 a.internal.tag-link {
