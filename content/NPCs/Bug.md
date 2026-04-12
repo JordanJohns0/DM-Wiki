@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.275-07:00
-modified: 2026-04-12T12:58:26.289-07:00
-published: 2026-04-12T12:58:26.289-07:00
+modified: 2026-04-12T13:45:18.318-07:00
+published: 2026-04-12T13:45:18.318-07:00
+tags:
+  - NPC
 aliases:
 species: Ogre
 gender: Male
