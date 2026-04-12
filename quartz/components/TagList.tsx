@@ -26,7 +26,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
   if (entries.length === 0) return null
 
   return (
-    <ul class={classNames(displayClass, "tags")}>
+    <ul class={classNames(displayClass, "infobox")}>
       {entries.map(([key, value]) => {
         // TAG BEHAVIOR (original functionality preserved)
         if (key === "tags" && Array.isArray(value)) {
