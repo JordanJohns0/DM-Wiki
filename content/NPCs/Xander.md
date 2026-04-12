@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-04-12T12:25:30.052-07:00
-modified: 2026-04-12T13:10:38.715-07:00
-published: 2026-04-12T13:10:38.715-07:00
+modified: 2026-04-12T13:47:19.188-07:00
+published: 2026-04-12T13:47:19.188-07:00
+tags:
+  - NPC
 aliases:
 species: Elf
 gender: Male

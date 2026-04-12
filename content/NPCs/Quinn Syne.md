@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Quinn
 created: 2026-04-12T12:25:29.230-07:00
-modified: 2026-04-12T12:58:13.371-07:00
-published: 2026-04-12T12:58:13.371-07:00
+modified: 2026-04-12T13:46:48.432-07:00
+published: 2026-04-12T13:46:48.432-07:00
+tags:
+  - NPC
 species: Human
 gender: Male
 age: "27"

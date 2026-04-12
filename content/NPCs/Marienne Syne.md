@@ -3,8 +3,10 @@ publish: true
 aliases:
   - Marienne
 created: 2026-04-12T12:25:29.212-07:00
-modified: 2026-04-12T12:58:18.641-07:00
-published: 2026-04-12T12:58:18.641-07:00
+modified: 2026-04-12T13:46:40.996-07:00
+published: 2026-04-12T13:46:40.996-07:00
+tags:
+  - NPC
 species: Human
 gender: Female
 age: "26"

@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.302-07:00
-modified: 2026-04-12T12:58:21.982-07:00
-published: 2026-04-12T12:58:21.982-07:00
+modified: 2026-04-12T13:46:37.894-07:00
+published: 2026-04-12T13:46:37.894-07:00
+tags:
+  - NPC
 aliases:
 species: Human
 gender: Male
