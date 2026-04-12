@@ -4,7 +4,6 @@ import { resolveRelative } from "../util/path"
 
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
-
   if (!fm) return null
 
   const excludedKeys = new Set([
@@ -15,6 +14,19 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
     "aliases",
     "title"
   ])
+
+  const formatKey = (key: string) =>
+    key
+      .replace(/_/g, " ")
+      .replace(/\b\w/g, (c) => c.toUpperCase())
+
+  const stripMarkdownLink = (value: string) => {
+    // [text](url) → text
+    return value.replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
+  }
+
+  const isExternalMarkdownLink = (value: string) =>
+    /^\[.*\]\(https?:\/\/.*\)$/.test(value)
 
   const entries = Object.entries(fm).filter(([key, value]) => {
     if (excludedKeys.has(key)) return false
@@ -27,8 +39,8 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
 
   return (
     <ul class={classNames(displayClass, "infobox")}>
-      {entries.map(([key, value]) => {
-        // TAG BEHAVIOR (original functionality preserved)
+      {entries.flatMap(([key, value]) => {
+        // TAGS (unchanged behavior)
         if (key === "tags" && Array.isArray(value)) {
           return value.map((tag) => {
             const linkDest = resolveRelative(fileData.slug!, `tags/${tag}`)
@@ -42,40 +54,58 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
           })
         }
 
-        // LINK HANDLING (Obsidian-style [[links]] + markdown links)
-        let displayValue = value
+        let displayValue: any = value
 
         if (typeof value === "string") {
-          displayValue = value
+          // remove markdown-style external links
+          displayValue = stripMarkdownLink(value)
         } else if (Array.isArray(value)) {
-          displayValue = value.join(", ")
-        } else if (typeof value === "object" && value !== null) {
+          displayValue = value.map((v) =>
+            typeof v === "string" ? stripMarkdownLink(v) : String(v)
+          ).join(", ")
+        } else if (typeof value === "object") {
           displayValue = JSON.stringify(value)
         }
 
-        // detect internal wiki links like [[Page]]
-        const isWikiLink =
-          typeof value === "string" && value.startsWith("[[") && value.endsWith("]]")
-
-        if (isWikiLink) {
+        // Obsidian wiki link [[Page]]
+        if (typeof value === "string" && value.startsWith("[[") && value.endsWith("]]")) {
           const slug = value.slice(2, -2)
           const linkDest = resolveRelative(fileData.slug!, slug as any)
 
-          return (
+          return [
             <li>
-              <strong>{key}:</strong>{" "}
+              <strong>{formatKey(key)}:</strong>{" "}
               <a href={linkDest} class="internal">
                 {slug}
               </a>
             </li>
-          )
+          ]
         }
 
-        return (
+        // external markdown link case → still render but stripped
+        if (typeof value === "string" && isExternalMarkdownLink(value)) {
+          const text = stripMarkdownLink(value)
+          const url = value.match(/\((https?:\/\/[^)]+)\)/)?.[1]
+
+          return [
+            <li>
+              <strong>{formatKey(key)}:</strong>{" "}
+              {url ? (
+                <a href={url} target="_blank" rel="noopener noreferrer">
+                  {text}
+                </a>
+              ) : (
+                text
+              )}
+            </li>
+          ]
+        }
+
+        return [
           <li>
-            <strong>{key}:</strong> {String(displayValue)}
+            <strong>{formatKey(key)}:</strong> {String(displayValue)}
           </li>
-        )
+        ]
       })}
     </ul>
   )
