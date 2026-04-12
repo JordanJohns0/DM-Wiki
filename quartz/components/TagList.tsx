@@ -29,25 +29,22 @@ const TagList: QuartzComponent = ({ fileData, displayClass, allFiles }: QuartzCo
 
   // Resolve a wiki link slug to a full path by searching allFiles
   const resolveWikiLink = (rawSlug: string): string => {
-    // Strip heading anchors e.g. [[Page#Section]] → "Page"
-    const slugName = rawSlug.split("#")[0].toLowerCase()
+  const slugName = rawSlug.split("#")[0].toLowerCase().replace(/ /g, "-")
 
-    // Find a file whose slug ends with the target (case-insensitive)
-    const match = allFiles.find((f) => {
-      const fileslug = f.slug ?? ""
-      return (
-        fileslug.toLowerCase() === slugName ||
-        fileslug.toLowerCase().endsWith("/" + slugName)
-      )
-    })
+  const match = allFiles.find((f) => {
+    const fileslug = f.slug ?? ""
+    return (
+      fileslug.toLowerCase() === slugName ||
+      fileslug.toLowerCase().endsWith("/" + slugName)
+    )
+  })
 
-    if (match?.slug) {
-      return resolveRelative(fileData.slug!, match.slug)
-    }
-
-    // Fallback: just resolve relative as before
-    return resolveRelative(fileData.slug!, rawSlug as any)
+  if (match?.slug) {
+    return resolveRelative(fileData.slug!, match.slug)
   }
+
+  return resolveRelative(fileData.slug!, rawSlug as any)
+}
 
   const entries = Object.entries(fm).filter(([key, value]) => {
     if (excludedKeys.has(key)) return false
