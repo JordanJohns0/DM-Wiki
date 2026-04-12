@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.621-07:00
-modified: 2026-04-12T12:58:50.299-07:00
-published: 2026-04-12T12:58:50.299-07:00
+modified: 2026-04-12T14:41:26.290-07:00
+published: 2026-04-12T14:41:26.290-07:00
 tags:
   - Location
+  - Watchtower
 aliases:
 region: Argentina
 city:
