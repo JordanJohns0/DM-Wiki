@@ -1,8 +1,10 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.789-07:00
-modified: 2026-04-12T15:24:22.833-07:00
-published: 2026-04-12T15:24:22.833-07:00
+modified: 2026-04-12T15:33:44.267-07:00
+published: 2026-04-12T15:33:44.267-07:00
+tags:
+  - List
 ---
 
 Session Notes are my preparation documents for each session of the adventure, they're created using the [[_Session Template]] to keep a certain comfortable read to them.
