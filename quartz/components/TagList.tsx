@@ -1,31 +1,24 @@
-import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
 
 const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const tags = fileData.frontmatter?.tags
-  if (tags && tags.length > 0) {
-    return (
-      <ul class={classNames(displayClass, "tags")}>
-        {tags.map((tag) => {
-          const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
-          return (
-            <li>
-              <a href={linkDest} class="internal tag-link">
-                {tag}
-              </a>
-            </li>
-          )
-        })}
-      </ul>
-    )
-  } else {
-    return null
-  }
+  const fm = fileData.frontmatter
+
+  if (!fm || Object.keys(fm).length === 0) return null
+
+  return (
+    <ul class={classNames(displayClass, "frontmatter")}>
+      {Object.entries(fm).map(([key, value]) => (
+        <li>
+          <strong>{key}:</strong> {String(value)}
+        </li>
+      ))}
+    </ul>
+  )
 }
 
 TagList.css = `
-.tags {
+.frontmatter {
   list-style: none;
   display: flex;
   padding-left: 0;
@@ -34,22 +27,14 @@ TagList.css = `
   flex-wrap: wrap;
 }
 
-.section-li > .section > .tags {
-  justify-content: flex-end;
-}
-  
-.tags > li {
+.frontmatter > li {
   display: inline-block;
   white-space: nowrap;
   margin: 0;
-  overflow-wrap: normal;
 }
 
-a.internal.tag-link {
-  border-radius: 8px;
-  background-color: var(--highlight);
-  padding: 0.2rem 0.4rem;
-  margin: 0 0.1rem;
+.frontmatter strong {
+  margin-right: 0.3rem;
 }
 `
 
