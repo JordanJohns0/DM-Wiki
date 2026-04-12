@@ -42,16 +42,21 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
       {entries.flatMap(([key, value]) => {
         // TAGS (unchanged behavior)
         if (key === "tags" && Array.isArray(value)) {
-          return value.map((tag) => {
-            const linkDest = resolveRelative(fileData.slug!, `tags/${tag}`)
-            return (
-              <li>
-                <a href={linkDest} class="internal tag-link">
-                  {tag}
-                </a>
-              </li>
-            )
-          })
+          return [
+            <li>
+              <strong>Tags:</strong>{" "}
+              <span class="tag-container">
+                {value.map((tag) => {
+                  const linkDest = resolveRelative(fileData.slug!, `tags/${tag}`)
+                  return (
+                    <a href={linkDest} class="internal tag-link">
+                      {tag}
+                    </a>
+                  )
+                })}
+              </span>
+            </li>
+          ]
         }
 
         let displayValue: any = value
