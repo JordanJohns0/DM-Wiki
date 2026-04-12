@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.789-07:00
-modified: 2026-04-12T13:18:52.599-07:00
-published: 2026-04-12T13:18:52.599-07:00
+modified: 2026-04-12T15:24:22.833-07:00
+published: 2026-04-12T15:24:22.833-07:00
 ---
 
 Session Notes are my preparation documents for each session of the adventure, they're created using the [[_Session Template]] to keep a certain comfortable read to them.
@@ -20,7 +20,7 @@ Here's a list of the sessions in descending chronological order:
 
 ## Season 1
 
-Note that for season 1 I was not using my current system, so they may be even more scattered than usual.
+_Note that for season 1 I was not using my current system, so they may be even more scattered than usual._
 
 - [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 8.md|Cult of the Mindflayer 8]]
 - [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 7.md|Cult of the Mindflayer 7]]
