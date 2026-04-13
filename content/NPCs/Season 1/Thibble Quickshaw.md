@@ -1,15 +1,22 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.429-07:00
-modified: 2026-04-12T12:58:34.845-07:00
-published: 2026-04-12T12:58:34.845-07:00
+modified: 2026-04-13T16:05:26.076-07:00
+published: 2026-04-13T16:05:26.076-07:00
+tags:
+  - NPC
+afilliation: "[[The Bronze Anvil]]"
+species: Deep Gnome
+aliases:
+gender: Male
+age:
+occupation:
+status: Dead
+first_appearance:
+stat_block:
 ---
 
-Race:\*\* Deep Gnome
-**Gender:** Male
-**Status:** Dead (Slain in season 1 by the party)
-
-Thibble Quickshaw was a eccentric artificer who has spent his life researching mind flayers. The research as turned into a bit of an obsession over the years.
+**Thibble Quickshaw** was a eccentric artificer who has spent his life researching mind flayers. The research as turned into a bit of an obsession over the years.
 
 He constantly wears a Ring of Mind Shielding that he crafted himself, believing the mind flayers to be everywhere, constantly observing and waiting for the right chance to strike.
 
