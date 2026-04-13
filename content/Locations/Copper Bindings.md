@@ -1,15 +1,12 @@
 ---
-publish: true
-created: 2026-04-12T12:25:29.606-07:00
-modified: 2026-04-12T12:58:52.736-07:00
-published: 2026-04-12T12:58:52.736-07:00
+aliases:
 tags:
   - Location
   - Library
-aliases:
-region: Argentina
+region: "[[Argentina]]"
 first_appearance: "[[Shadows Over Ironspire 3]]"
 city: "[[Ironspire]]"
+publish: true
 ---
 
 # Overview
