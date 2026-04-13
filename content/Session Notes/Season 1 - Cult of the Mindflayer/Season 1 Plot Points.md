@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.957-07:00
-modified: 2026-04-12T12:57:20.755-07:00
-published: 2026-04-12T12:57:20.755-07:00
+modified: 2026-04-13T06:34:39.663-07:00
+published: 2026-04-13T06:34:39.663-07:00
 ---
 
 This is a list of anything the players did that can be used as story arcs later.
@@ -50,4 +50,4 @@ Main Plot: The Elemental Shards
 
 Related
 
-- [[_Campaign Info]]
+- [[Plot Points - Season 2]]
