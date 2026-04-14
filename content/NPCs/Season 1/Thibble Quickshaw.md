@@ -1,10 +1,5 @@
 ---
 publish: true
-created: 2026-04-12T12:25:29.429-07:00
-modified: 2026-04-13T16:05:26.076-07:00
-published: 2026-04-13T16:05:26.076-07:00
-tags:
-  - NPC
 afilliation: "[[The Bronze Anvil]]"
 species: Deep Gnome
 aliases:
@@ -14,6 +9,8 @@ occupation:
 status: Dead
 first_appearance:
 stat_block:
+tags:
+  - NPC
 ---
 
 **Thibble Quickshaw** was a eccentric artificer who has spent his life researching mind flayers. The research as turned into a bit of an obsession over the years.
@@ -38,7 +35,7 @@ Thibble has invented a fair number of creations in his days. This is a non-compr
 
 The Psionic Shield Matrix is a device that can be setup in one's home in order to prevent Illithid thought detection and invasion.
 
-- Most people don't need this, until Thibble created the [[Gearwrought Illithid]] and had them raid town. This caused a mass panic, and made Thibble very wealthy.
+- Most people don't need this, until Thibble created the Gearwrought Illithid and had them raid town. This caused a mass panic, and made Thibble very wealthy.
 
 # Thibble's Story
 

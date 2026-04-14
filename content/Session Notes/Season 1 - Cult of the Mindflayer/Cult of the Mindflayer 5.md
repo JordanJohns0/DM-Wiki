@@ -1,14 +1,11 @@
 ---
 publish: true
-created: 2026-04-12T12:25:28.896-07:00
-modified: 2026-04-12T12:57:34.250-07:00
-published: 2026-04-12T12:57:34.250-07:00
 ---
 
 Session 4 went well! This is where we left off:
 
 - [[Thibble Quickshaw]] is tied up and wounded (20/85 hp) to the **Giant Elk** that will disappear at dawn.
-  - The corpse of a [[Gearwrought Illithid]] is also tied up as evidence.
+  - The corpse of a Gearwrought Illithid is also tied up as evidence.
 
 Next Session:
 

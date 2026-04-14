@@ -20,4 +20,6 @@ They are lawful, but might makes right. Only the strong survive.
 
 # Enemies
 
+- [[Ironspire City Guard]]
+
 # Locations
