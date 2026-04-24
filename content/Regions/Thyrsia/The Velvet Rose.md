@@ -1,1 +1,0 @@
-The Velvet Hand is the Town Guard of [[Thyrsia]].
