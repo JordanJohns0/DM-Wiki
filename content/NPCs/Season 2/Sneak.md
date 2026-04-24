@@ -2,18 +2,8 @@
 publish: true
 created: 2026-04-12T12:25:29.288-07:00
 modified: 2026-04-12T13:57:49.813-07:00
-published: 2026-04-12T13:57:49.813-07:00
 tags:
   - NPC
-aliases:
-species: Kobold
-gender: Female
-age: "6"
-occupation: Thief
-afilliation:
-status: Alive
-first_appearance: "[[Shadows Over Ironspire 4]]"
-stat_block: "[Kobold Warrior](https://www.dndbeyond.com/monsters/5195096-kobold-warrior)"
 ---
 
 # Appearance

@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:28.927-07:00
 modified: 2026-04-12T12:57:27.283-07:00
-published: 2026-04-12T12:57:27.283-07:00
 ---
 
 Players become trapped in [[Shadowfell]] and must figure out a way to get out.

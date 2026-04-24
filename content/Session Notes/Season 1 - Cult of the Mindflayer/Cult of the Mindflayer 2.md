@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:28.866-07:00
 modified: 2026-04-12T12:57:42.818-07:00
-published: 2026-04-12T12:57:42.818-07:00
 ---
 
 Things to do:

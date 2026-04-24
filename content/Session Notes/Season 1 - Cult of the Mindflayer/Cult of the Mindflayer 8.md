@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:28.943-07:00
 modified: 2026-04-12T12:57:23.721-07:00
-published: 2026-04-12T12:57:23.721-07:00
 ---
 
 THIS SESSION DID NOT HAPPEN. The campaign was scrapped, and we started a new campaign: [[Shadows Over Ironspire 1]]

@@ -2,10 +2,8 @@
 publish: true
 created: 2026-04-13T15:57:53.180-07:00
 modified: 2026-04-13T16:10:24.062-07:00
-published: 2026-04-13T16:10:24.062-07:00
 tags:
   - Region
-aliases:
 ---
 
 # Overview

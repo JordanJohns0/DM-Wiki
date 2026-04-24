@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:29.557-07:00
 modified: 2026-04-12T12:58:45.131-07:00
-published: 2026-04-12T12:58:45.131-07:00
 ---
 
 _Wonderous Item, uncommon_

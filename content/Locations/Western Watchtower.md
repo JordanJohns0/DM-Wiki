@@ -1,12 +1,10 @@
 ---
-aliases:
+publish: true
+created: 2026-04-12T12:25:29.621-07:00
+modified: 2026-04-23T16:01:08.637-07:00
 tags:
   - Location
   - Watchtower
-region: "[[Argentina]]"
-city:
-first_appearance: "[[Shadows Over Ironspire 3]]"
-publish: true
 ---
 
 # Overview

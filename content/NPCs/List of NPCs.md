@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T15:24:42.949-07:00
 modified: 2026-04-12T15:27:35.433-07:00
-published: 2026-04-12T15:27:35.433-07:00
 tags:
   - List
 ---
@@ -27,4 +26,5 @@ tags:
 - [[NPCs/Season 1/Erastos, Faunaseer.md|Erastos, Faunaseer]]
 - [[NPCs/Season 1/Thibble Quickshaw.md|Thibble Quickshaw]]
 - [[NPCs/Season 1/Torvin Inkhand.md|Torvin Inkhand]]
+- [[NPCs/Season 1/Vargus Ironthane.md|Vargus Ironthane]]
 - [[NPCs/Season 1/Yavanna Stargazer.md|Yavanna Stargazer]]

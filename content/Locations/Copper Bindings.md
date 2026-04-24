@@ -19,4 +19,4 @@ publish: true
 
 # Interactions
 
-Owen visited in [[Shadows Over Ironspire 3]]. When he entered, there was nobody to be found. He took a book and left 1gp as payment.
+[[Tim]] visited in [[Shadows Over Ironspire 3]]. When he entered, there was nobody to be found. He took a book and left 1gp as payment.

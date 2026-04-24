@@ -2,8 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:29.382-07:00
 modified: 2026-04-13T16:04:02.173-07:00
-published: 2026-04-13T16:04:02.173-07:00
-afilliation: "[[The Illuminated Archive]]"
 ---
 
 **Race:** Dwarf

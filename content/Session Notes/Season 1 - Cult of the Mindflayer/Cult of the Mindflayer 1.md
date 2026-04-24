@@ -2,7 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:28.847-07:00
 modified: 2026-04-12T12:57:45.387-07:00
-published: 2026-04-12T12:57:45.387-07:00
 ---
 
 We begin in the center of the city-state [[Thyrsia]], bustling with excited energy. Today is the Day of Dionysus, a festival day known for trading exotic goods and enjoying the delicacies of a good wine. The air is ripe with anticipation and enthusiasm.

@@ -2,8 +2,6 @@
 publish: true
 created: 2026-04-12T12:25:29.360-07:00
 modified: 2026-04-13T16:03:59.060-07:00
-published: 2026-04-13T16:03:59.060-07:00
-afilliation: "[[The Illuminated Archive]]"
 ---
 
 Erastos is a Faunaseer, which is an occupation that involves researching and learning about animals. Erastos is a collector, devoting his life to finding and preserving animals that are fantastical, rare, or otherwise endangered.

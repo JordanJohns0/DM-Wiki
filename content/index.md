@@ -3,7 +3,6 @@ publish: true
 title: Home
 created: 2026-04-12T12:25:28.754-07:00
 modified: 2026-03-18T10:05:05.303-07:00
-published: 2026-03-18T10:05:05.303-07:00
 ---
 
 Welcome to the DM Wiki. Here are all of my notes for D\&D Campaigns (excluding what you don't know yet).

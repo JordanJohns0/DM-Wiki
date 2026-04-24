@@ -1,10 +1,4 @@
 ---
-publish: true
-created: 2026-04-12T12:31:17.643-07:00
-modified: 2026-04-12T13:47:14.365-07:00
-published: 2026-04-12T13:47:14.365-07:00
-tags:
-  - NPC
 aliases:
 species: Human
 gender: Female
@@ -14,6 +8,9 @@ afilliation: "[[Ironspire]]"
 status: Alive
 first_appearance: "[[Shadows Over Ironspire 3]]"
 stat_block:
+publish: true
+tags:
+  - NPC
 ---
 
 # Appearance
@@ -24,4 +21,4 @@ stat_block:
 
 # Interactions
 
-In [[Shadows Over Ironspire 3]], **Tyra** gave Maya and Nathan each a gallon of ale which they drank through swirly straws (the type that also look like glasses).
+In [[Shadows Over Ironspire 3]], **Tyra** gave [[Persephone]] and [[James Blackburn]] each a gallon of ale which they drank through swirly straws (the type that also look like glasses).
