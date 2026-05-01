@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.912-07:00
-modified: 2026-04-12T12:57:30.451-07:00
+modified: 2026-04-28T13:16:55.667-07:00
 ---
 
 **Pages to Make:**
@@ -37,7 +37,7 @@ modified: 2026-04-12T12:57:30.451-07:00
 # Clues
 
 - Dreams and Nightmares
-  - To the party as well as loved ones of the victims
+  - To [[The Party]] as well as loved ones of the victims
 - Ethereal Residue
   - Areas where the ritual is performed have a faint ethereal residue that players can detect
 - People working late have seen strange, ghostly figures on nights of the disappearances

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.847-07:00
-modified: 2026-04-12T12:57:45.387-07:00
+modified: 2026-04-28T13:16:55.612-07:00
 ---
 
 We begin in the center of the city-state [[Thyrsia]], bustling with excited energy. Today is the Day of Dionysus, a festival day known for trading exotic goods and enjoying the delicacies of a good wine. The air is ripe with anticipation and enthusiasm.
@@ -10,7 +10,7 @@ As you are exploring the market, the crowd's attention shifts towards a grandly 
 
 It is there that Erastos, noticing their interest (and possibly the weapons or magical implements they carry), approaches them. He is quietly panicking about a creature that has been let loose within the market: The [[Gorgon Serpent]].
 
-The snake MUST be captured alive. It is the last of its kind, and if lost it would be a tragedy to the world. Erastos will not reward and will be furious with the party if he finds out.
+The snake MUST be captured alive. It is the last of its kind, and if lost it would be a tragedy to the world. Erastos will not reward and will be furious with [[The Party]] if he finds out.
 
 Reward: {TO BE DETERMINED}
 
@@ -20,8 +20,8 @@ The Gorgon Serpent has escaped from Erastos' Wondrous Creature Exhibition and ma
 
 ### Clues for the players:
 
-- **Erastos:** he says the snake enjoys rocky terrain. This could lead the party to investigate stonemason stalls.
-- **Animal Attacks:** The party hears rumors about an unusual number of pet and street animal disappearances in the area near the stonemason.
+- **Erastos:** he says the snake enjoys rocky terrain. This could lead [[The Party]] to investigate stonemason stalls.
+- **Animal Attacks:** [[The Party]] hears rumors about an unusual number of pet and street animal disappearances in the area near the stonemason.
 - **Witness:** A local citizen or vendor has seen the snake slither off in the direction of the stonemason.
 - **Tracking:** The snake has left a unusual texture on the stone. Warm, almost slippery.
 

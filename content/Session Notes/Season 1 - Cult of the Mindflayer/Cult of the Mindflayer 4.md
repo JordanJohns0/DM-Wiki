@@ -4,7 +4,7 @@ publish: true
 
 Players arrived in [[Ironspire]]. They want to invade the Mind Flayer hive of [[Il'kessath]].
 
-The party needs to prepare if they hope to face against the Mindflayers. They need equipment, more levels, and maybe some NPC allies.
+[[The Party]] needs to prepare if they hope to face against the Mindflayers. They need equipment, more levels, and maybe some NPC allies.
 
 **REMINDER**
 

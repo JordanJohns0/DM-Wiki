@@ -19,7 +19,7 @@ Next Session:
 
 ## 1. The Town Guard's reaction at the gate
 
-The town guard, upon seeing Thibble in chains, are visibly taken aback. They demand an explanation, drawing their weapons, believing the party might be using some form of trickery or magic.
+The town guard, upon seeing Thibble in chains, are visibly taken aback. They demand an explanation, drawing their weapons, believing [[The Party]] might be using some form of trickery or magic.
 
 The Guards are divided in their opinion. A few had their doubts about Thibble, but others support him entirely.
 
@@ -31,33 +31,33 @@ The Guards are divided in their opinion. A few had their doubts about Thibble, b
   - Elys demands an explanation and proof. While she may have had her doubts about Thibble, she won’t let personal feelings interfere with her duty.
 - [[Sentinel Nolen Greys]]
   - Human Male
-  - Shocked and confused, Nolen looks to his superiors for guidance. If the party can present any concrete evidence, he is more quickly swayed than the others.
+  - Shocked and confused, Nolen looks to his superiors for guidance. If [[The Party]] can present any concrete evidence, he is more quickly swayed than the others.
 - [[Sentinel Bram Thuldon]]
   - Human Male
   - Bram is not particularly surprised. He might say something like, "Always knew that fancy guildmaster had something shady about him."
 - [[Sentinel Lena Fairwind]]
   - Tiefling Female
-  - She is visibly torn. She might even recognize some item or proof the party presents, having heard rumors or whispers about it in the past. Her allegiance would be a balance between her duty and her personal connections.
+  - She is visibly torn. She might even recognize some item or proof [[The Party]] presents, having heard rumors or whispers about it in the past. Her allegiance would be a balance between her duty and her personal connections.
 
 ## 2. The Town's Reaction
 
-As the party moves through the town with Thibble in custody, a crowd starts to gather. The majority are confused, many are angry, and only a few nod in agreement, having had suspicions about Thibble. Rumors and whispers spread like wildfire.
+As [[The Party]] moves through the town with Thibble in custody, a crowd starts to gather. The majority are confused, many are angry, and only a few nod in agreement, having had suspicions about Thibble. Rumors and whispers spread like wildfire.
 
 ## 3. Confrontation with the Bronze Anvil Guild Members
 
-Members of the Bronze Anvil guild, especially Thibble's inner circle, confront the party in the town square. They demand answers, and its a mix of hostility and disbelief.
+Members of the Bronze Anvil guild, especially Thibble's inner circle, confront [[The Party]] in the town square. They demand answers, and its a mix of hostility and disbelief.
 
 **Characters in this Scene:**
 
 - [[Elyana Brightwood]]
   - Female Elf Bartender of [[The Moon's Embrace]]
-  - Dislikes the party. Is on Thibble's Side
+  - Dislikes [[The Party]]. Is on Thibble's Side
 - [[Wulfrik Fenmark]]
   - Male Human Blacksmith of [[Wyrmheart Foundry]]
   - Neutral. Slight lean towards Thibble
 - [[Baern Battlehammer]]
   - Male Dwarf, Owner of [[Sundial Surplus]]
-  - Hates Thibble, strongly on the side of the party
+  - Hates Thibble, strongly on the side of [[The Party]]
 - [[Cogsmith Sylvester]]
   - Dragonborn Male
   - The main authority figure. Calls for a vote

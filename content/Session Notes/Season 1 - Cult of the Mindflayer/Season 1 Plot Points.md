@@ -26,7 +26,7 @@ This is a list of anything the players did that can be used as story arcs later.
 
    2. Citizens noticed a githzerai (Owen) create a panther by throwing some fuzz on the ground.
 
-   3. The Velvet Rose now has a bounty out for each member of the party.
+   3. The Velvet Rose now has a bounty out for each member of [[The Party]].
 
 4. [[Torvin Inkhand]]
    1. Torvin has killed [[Yavanna Stargazer]] and [[Aello Vellenthar]]. He destroyed [[The Scriptorium]], and has set the Mind Flayer free.

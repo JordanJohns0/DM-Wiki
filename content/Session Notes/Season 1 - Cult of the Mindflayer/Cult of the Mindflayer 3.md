@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.824-07:00
-modified: 2026-04-12T12:57:39.813-07:00
+modified: 2026-04-28T13:16:55.625-07:00
 ---
 
 ## Ideas
@@ -9,7 +9,7 @@ modified: 2026-04-12T12:57:39.813-07:00
 - [[Torvin Inkhand]] has become corrupted after continued use of the [[Cerebral Conduit]]. Mind flayers are slowly taking over the city of [[Thyrsia]]. Torvin's beard is covering his tentacles
   - At [[The Scriptorium]], Torvin has kidnapped [[Yavanna Stargazer]]. [[Aello Vellenthar]] doesn't know about it yet. Torvin has given Yavanna's body to [[Stilgar Giriou]] to turn her into a [[Mind Flayer Thrall]]
   -
-- [[Tasilis Nikolaidis]] has become obsessed with revenge against the party. Specifically Nathan, who removed his right hand.
+- [[Tasilis Nikolaidis]] has become obsessed with revenge against [[The Party]]. Specifically Nathan, who removed his right hand.
 - [[The Velvet Rose]], The Town Guard of [[Thyrsia]], is investigating [[The Drunken Minotaur]] murders.
   - They have blocked off the area beside The Drunken Minotaur. Investigators are there, asking questions and interrogating residents of the apartments above the tavern.
   - NPCs:
@@ -64,8 +64,8 @@ They want to go to [[Il'kessath]].
   - [[Torvin Inkhand]] has gone full-flayer and killed [[Yavanna Stargazer]] and [[Aello Vellenthar]].
     - He tore apart [[The Scriptorium]] and made a new hideout.
   - [[The Velvet Rose]] have found more information about the murders outside of [[The Velvet Rose]].
-    - Some citizens saw a group of people (the party) create a Panther out of thin air. There is now a bounty out for the party
-  - [[Tasilis Nikolaidis]] has made a pact with Hades and now possesses great power. He seeks revenge against the party, specifically Nathan.
+    - Some citizens saw a group of people ([[The Party]]) create a Panther out of thin air. There is now a bounty out for [[The Party]]
+  - [[Tasilis Nikolaidis]] has made a pact with Hades and now possesses great power. He seeks revenge against [[The Party]], specifically Nathan.
   - [[Vargus Ironthane]] took advantage of [[Torvin Inkhand]]'s craziness and stole [[The Elemental Shards#Shard of Knowledge|Shard of Knowledge]]
 
 #Season1
