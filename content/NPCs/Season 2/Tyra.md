@@ -1,14 +1,7 @@
 ---
-aliases:
-species: Human
-gender: Female
-age: "35"
-occupation: Bartender
-afilliation: "[[Ironspire]]"
-status: Alive
-first_appearance: "[[Shadows Over Ironspire 3]]"
-stat_block:
 publish: true
+created: 2026-04-12T12:31:17.643-07:00
+modified: 2026-04-28T13:07:18.237-07:00
 tags:
   - NPC
 ---

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.261-07:00
-modified: 2026-04-12T13:46:45.620-07:00
+modified: 2026-04-28T13:16:55.530-07:00
 tags:
   - NPC
 ---
@@ -18,4 +18,4 @@ Nolan is a no-nonsense type of guy.
 
 # Interactions
 
-He hires the party at the start of [[Shadows Over Ironspire 1]] for protection, due to the rise of attacks from [[The Crimson Fist]].
+He hires [[The Party]] at the start of [[Shadows Over Ironspire 1]] for protection, due to the rise of attacks from [[The Crimson Fist]].

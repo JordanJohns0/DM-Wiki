@@ -1,11 +1,9 @@
 ---
 publish: true
-aliases:
+created: 2026-04-13T15:57:53.017-07:00
+modified: 2026-04-28T13:31:19.112-07:00
 tags:
   - Faction
-leadership_type: "[[Military Autocracy]]"
-region: "[[The Granite Mountains]]"
-city:
 ---
 
 # Overview

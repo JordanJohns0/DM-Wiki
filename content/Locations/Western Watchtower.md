@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.621-07:00
-modified: 2026-04-23T16:01:08.637-07:00
+modified: 2026-04-28T13:16:55.496-07:00
 tags:
   - Location
   - Watchtower
@@ -22,6 +22,6 @@ Currently it is occupied by [[The Crimson Fist]] after they killed the [[Ironspi
 
 # Interactions
 
-The party was given a quest to go here from [[Marienne Syne|Marienne]] in [[Shadows Over Ironspire 3]].
+[[The Party]] was given a quest to go here from [[Marienne Syne|Marienne]] in [[Shadows Over Ironspire 3]].
 
-The party arrived here in [[Shadows Over Ironspire 4]], finding it overrun with goblins from [[The Crimson Fist]]. The party killed them, and found [[Liam]] and [[Stuart]] tied up as the only survivors from [[Ironspire]].
+[[The Party]] arrived here in [[Shadows Over Ironspire 4]], finding it overrun with goblins from [[The Crimson Fist]]. [[The Party]] killed them, and found [[Liam]] and [[Stuart]] tied up as the only survivors from [[Ironspire]].

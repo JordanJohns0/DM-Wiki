@@ -16,7 +16,6 @@ tags:
 - [[NPCs/Season 2/Quinn Syne.md|Quinn Syne]]
 - [[NPCs/Season 2/Sneak.md|Sneak]]
 - [[NPCs/Season 2/Stuart.md|Stuart]]
-- [[NPCs/Season 2/Sylvester Syne.md|Sylvester Syne]]
 - [[NPCs/Season 2/Tyra.md|Tyra]]
 - [[NPCs/Season 2/Xander.md|Xander]]
 

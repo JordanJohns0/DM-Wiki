@@ -20,4 +20,4 @@ The Tinker Inn is a steampunk-themed tavern and inn. It has animated machines an
 
 # Interactions
 
-The party visited during [[Shadows Over Ironspire 3]]. [[Persephone]] and [[James Blackburn]] both bought an entire gallon of Ale and drink them using swirly straws.
+[[The Party]] visited during [[Shadows Over Ironspire 3]]. [[Persephone]] and [[James Blackburn]] both bought an entire gallon of Ale and drink them using swirly straws.

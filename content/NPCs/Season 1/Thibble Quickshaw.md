@@ -1,14 +1,7 @@
 ---
 publish: true
-afilliation: "[[The Bronze Anvil]]"
-species: Deep Gnome
-aliases:
-gender: Male
-age:
-occupation:
-status: Dead
-first_appearance:
-stat_block:
+created: 2026-04-12T12:25:29.429-07:00
+modified: 2026-04-28T08:20:47.838-07:00
 tags:
   - NPC
 ---

@@ -1,10 +1,9 @@
 ---
 publish: true
-aliases:
+created: 2026-04-13T15:57:53.000-07:00
+modified: 2026-04-28T13:01:06.046-07:00
 tags:
   - Faction
-region: "[[The Granite Mountains]]"
-city: "[[Ironspire]]"
 ---
 
 # Overview
