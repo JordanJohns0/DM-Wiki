@@ -13,6 +13,7 @@ Here's a list of the sessions in descending chronological order:
 
 ## Season 2
 
+- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 7.md|Shadows Over Ironspire 7]]
 - [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 6.md|Shadows Over Ironspire 6]]
 - [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 5.md|Shadows Over Ironspire 5]]
 - [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 4.md|Shadows Over Ironspire 4]]
