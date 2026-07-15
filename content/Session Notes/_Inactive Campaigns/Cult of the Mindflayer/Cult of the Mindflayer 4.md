@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.883-07:00
-modified: 2026-07-15T14:24:30.916-07:00
-published: 2026-07-15T14:24:30.916-07:00
+modified: 2026-07-15T15:20:03.197-07:00
+published: 2026-07-15T15:20:03.197-07:00
 tags:
   - CultOfTheMindflayer
 ---
@@ -13,7 +13,7 @@ Players arrived in [[Ironspire]]. They want to invade the Mind Flayer hive of [[
 
 **REMINDER**
 
-- Nathan and Aleksandar are covered in blood.
+- [[Nathan]] and [[Aleksandar]] are covered in blood.
 
 Players need to get information about [[Il'kessath]].
 

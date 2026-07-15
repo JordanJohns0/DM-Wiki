@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.847-07:00
-modified: 2026-07-15T14:24:04.844-07:00
-published: 2026-07-15T14:24:04.844-07:00
+modified: 2026-07-15T14:45:07.595-07:00
+published: 2026-07-15T14:45:07.595-07:00
 tags:
   - CultOfTheMindflayer
 ---
 
 We begin in the center of the city-state [[Thyrsia]], bustling with excited energy. Today is the Day of Dionysus, a festival day known for trading exotic goods and enjoying the delicacies of a good wine. The air is ripe with anticipation and enthusiasm.
 
-As you are exploring the market, the crowd's attention shifts towards a grandly decorated stall. The sign reads: "Erastos' Wondrous Creature Auction". [[Erastos, Faunaseer|Erastos]] is a famed Faunaseer, known for his collection of mystical and rare animals. People have gathered to witness the magnificent creatures he brings to the city during the Day of Dionysus.
+As you are exploring the market, the crowd's attention shifts towards a grandly decorated stall. The sign reads: "Erastos' Wondrous Creature Auction". [[Erastos|Erastos]] is a famed Faunaseer, known for his collection of mystical and rare animals. People have gathered to witness the magnificent creatures he brings to the city during the Day of Dionysus.
 
 It is there that Erastos, noticing their interest (and possibly the weapons or magical implements they carry), approaches them. He is quietly panicking about a creature that has been let loose within the market: The [[Gorgon Serpent]].
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:29.335-07:00
-modified: 2026-04-28T08:27:14.974-07:00
-published: 2026-04-28T08:27:14.974-07:00
+modified: 2026-07-15T15:19:55.642-07:00
+published: 2026-07-15T15:19:55.642-07:00
 afilliation: "[[The Illuminated Archive]]"
 species: Elf
 gender: Female
@@ -12,4 +12,4 @@ Aello is the seemingly mild-mannered librarian at the [[Starlight Library]] and 
 
 Aello is one of the key figures within [[The Illuminated Archive]]. She is a powerful divination wizard, using her magic to guide the Archive's efforts and ensure the protection of the knowledge they guard.
 
-**Season 1, Session 2 Errata:** She has huge boobs (Thanks Nathan!)
+**Season 1, Session 2 Errata:** She has huge boobs (Thanks [[Nathan]]!)

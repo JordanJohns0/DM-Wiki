@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.896-07:00
-modified: 2026-07-15T14:24:26.732-07:00
-published: 2026-07-15T14:24:26.732-07:00
+modified: 2026-07-15T15:20:04.294-07:00
+published: 2026-07-15T15:20:04.294-07:00
 tags:
   - CultOfTheMindflayer
 ---
@@ -17,7 +17,7 @@ Next Session:
 - Party will take Thibble to the town and show everyone that he is a fraud
   - How does this happen?
   - Reward? Outcome?
-- Nathan needs to sell his jewelry
+- [[Nathan]] needs to sell his jewelry
   - To whom?
 
 # Phases of the Session

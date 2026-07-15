@@ -1,21 +1,24 @@
 ---
 publish: true
 created: 2026-04-28T13:12:13.918-07:00
-modified: 2026-06-15T18:10:33.511-07:00
-published: 2026-06-15T18:10:33.511-07:00
+modified: 2026-07-15T15:07:38.497-07:00
+published: 2026-07-15T15:07:38.497-07:00
+tags:
+  - List
 ---
 
 The current party is the players involved in the current campaign. Depending on the campaign, this may refer to different characters.
 
-# [[Shadows Over Ironspire 1|Shadows Over Ironspire]]
+### Shadows Over Ironspire
 
-- [[Tim]]
-- [[James Blackburn]]
-- [[Persephone]]
-- [[Ulurum Arvolod]]
-- Former
-  - [[Celestine]]
+- [[PCs/Shadows Over Ironspire/James Blackburn|James Blackburn]]
+- [[PCs/Shadows Over Ironspire/Celestine|Celestine]] _(Inactive)_
+- [[PCs/Shadows Over Ironspire/Persephone|Persephone]]
+- [[PCs/Shadows Over Ironspire/Tim|Tim]]
+- [[PCs/Shadows Over Ironspire/Ulurum Arvolod|Ulurum Arvolod]]
 
-# [[Cult of the Mindflayer 1|Cult of the Mindflayer]]
+### Frozen Sick
 
-- I don't have access to the character sheets used for this campaign.
+- [[PCs/Frozen Sick/Jim, the Blue|Jim, the Blue]]
+- [[PCs/Frozen Sick/Rein Raus|Rein Raus]]
+- [[PCs/Frozen Sick/Give me Dinner|Give me Dinner]]

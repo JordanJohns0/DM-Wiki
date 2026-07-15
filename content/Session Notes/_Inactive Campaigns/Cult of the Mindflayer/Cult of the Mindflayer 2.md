@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.866-07:00
-modified: 2026-07-15T14:24:38.889-07:00
-published: 2026-07-15T14:24:38.889-07:00
+modified: 2026-07-15T15:19:58.447-07:00
+published: 2026-07-15T15:19:58.447-07:00
 tags:
   - CultOfTheMindflayer
 ---
 
 Things to do:
 
-1. Players are given the note from [[Erastos, Faunaseer|Erastos]]
+1. Players are given the note from [[Erastos|Erastos]]
    1. Erastos refuses to talk to them further in the busy streets, he seemingly disappears
 2. Players figure out where to go
    1. Written in Abyssal is "[[Starlight Library]]"
@@ -34,6 +34,6 @@ Everyone who melds with the mind flayer has their left eye tainted, turning inky
   - Need to make sure they are more important
 - What happens to the bandit survivor? ([[Tasilis Nikolaidis]])
 - [[Aello Vellenthar]] has big knockers
-  - Thanks Nathan
+  - Thanks [[Nathan]]
 
 #Season1
