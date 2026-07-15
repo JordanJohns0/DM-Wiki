@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.896-07:00
-modified: 2026-07-15T15:20:04.294-07:00
-published: 2026-07-15T15:20:04.294-07:00
+modified: 2026-07-15T15:24:11.490-07:00
+published: 2026-07-15T15:24:11.490-07:00
 tags:
   - CultOfTheMindflayer
 ---
@@ -48,9 +48,9 @@ The Guards are divided in their opinion. A few had their doubts about Thibble, b
 
 As [[The Party]] moves through the town with Thibble in custody, a crowd starts to gather. The majority are confused, many are angry, and only a few nod in agreement, having had suspicions about Thibble. Rumors and whispers spread like wildfire.
 
-## 3. Confrontation with the Bronze Anvil Guild Members
+## 3. Confrontation with [[the Bronze Anvil]] Guild Members
 
-Members of the Bronze Anvil guild, especially Thibble's inner circle, confront [[The Party]] in the town square. They demand answers, and its a mix of hostility and disbelief.
+Members of [[the Bronze Anvil]] guild, especially Thibble's inner circle, confront [[The Party]] in the town square. They demand answers, and its a mix of hostility and disbelief.
 
 **Characters in this Scene:**
 
@@ -68,7 +68,7 @@ Members of the Bronze Anvil guild, especially Thibble's inner circle, confront [
   - The main authority figure. Calls for a vote
 - [[Commander Dargan "Iron Fist" Korr]]
   - Half-Orc Male
-  - Imposing Figure and the Leader of the Ironspire Town Guard
+  - Imposing Figure and the Leader of the [[Ironspire]] Town Guard
   - Defensive and in denial. He's fiercely loyal to Thibble.
 - [[Master Alchemist Varn Alderwood]]
   - Human Female
@@ -89,13 +89,13 @@ Thibble's Defence:
 - Blame someone else
   - "It wasn't my fault, I was forced to!"
 - Play the Victim
-  - "Everything I've ever done was for the betterment Ironspire! I brought it to be the majestic city it is today!"
+  - "Everything I've ever done was for the betterment [[Ironspire]]! I brought it to be the majestic city it is today!"
 
 ## 5. The Verdict
 
 After both sides present their evidence, the townspeople decide on Thibble's Fate. Some options:
 
-- Banishment from Ironspire
+- Banishment from [[Ironspire]]
 - Imprisonment
 
 ## 6. Aftermath and Future Hooks

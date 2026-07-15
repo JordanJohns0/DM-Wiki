@@ -1,15 +1,15 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.912-07:00
-modified: 2026-07-15T14:24:22.097-07:00
-published: 2026-07-15T14:24:22.097-07:00
+modified: 2026-07-15T15:24:13.234-07:00
+published: 2026-07-15T15:24:13.234-07:00
 tags:
   - CultOfTheMindflayer
 ---
 
 **Pages to Make:**
 
-- Ironspire
+- [[Ironspire]]
   - [[Sundial Surplus]]
     - [[Baern Battlehammer]]
   - [[The Moon's Embrace]]

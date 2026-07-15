@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.824-07:00
-modified: 2026-07-15T15:20:01.641-07:00
-published: 2026-07-15T15:20:01.641-07:00
+modified: 2026-07-15T15:24:05.178-07:00
+published: 2026-07-15T15:24:05.178-07:00
 tags:
   - CultOfTheMindflayer
 ---
@@ -51,7 +51,7 @@ _Players leave through [[The Drunken Minotaur]], hear commotion._
 
 _When players leave the building, they run into [[Ramallo]], [[Farad'n]], and [[Brick]] and get questioned._
 
-- The goal of The Velvet Rose is to catch the people who have committed this crime.
+- The goal of [[The Velvet Rose]] is to catch the people who have committed this crime.
 
 They want to go to [[Il'kessath]].
 
