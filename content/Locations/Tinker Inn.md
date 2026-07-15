@@ -1,13 +1,16 @@
 ---
-aliases:
+publish: true
+created: 2026-04-12T12:25:30.038-07:00
+modified: 2026-07-02T21:01:36.775-07:00
+published: 2026-07-02T21:01:36.775-07:00
 tags:
   - Location
   - Tavern
   - Inn
+aliases:
 region: "[[Argentina]]"
 city: "[[Ironspire]]"
 first_appearance: "[[Shadows Over Ironspire 3]]"
-publish: true
 ---
 
 # Overview

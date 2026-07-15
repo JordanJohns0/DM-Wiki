@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T12:25:28.789-07:00
-modified: 2026-04-12T15:36:05.474-07:00
-published: 2026-04-12T15:36:05.474-07:00
+modified: 2026-07-15T14:29:04.629-07:00
+published: 2026-07-15T14:29:04.629-07:00
 tags:
   - List
 ---
@@ -11,29 +11,10 @@ Session Notes are my preparation documents for each session of the adventure, th
 
 Here's a list of the sessions in descending chronological order:
 
-## Season 2
+## Shadows Over Ironspire
 
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 7.md|Shadows Over Ironspire 7]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 6.md|Shadows Over Ironspire 6]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 5.md|Shadows Over Ironspire 5]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 4.md|Shadows Over Ironspire 4]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 3.md|Shadows Over Ironspire 3]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 2.md|Shadows Over Ironspire 2]]
-- [[Session Notes/Season 2 - Shadows Over Ironspire/Shadows Over Ironspire 1.md|Shadows Over Ironspire 1]]
-
-## Season 1
-
-_Note that for season 1 I was not using my current system, so they may be even more scattered than usual._
-
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 8.md|Cult of the Mindflayer 8]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 7.md|Cult of the Mindflayer 7]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 6.md|Cult of the Mindflayer 6]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 5.md|Cult of the Mindflayer 5]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 4.md|Cult of the Mindflayer 4]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 3.md|Cult of the Mindflayer 3]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 2.md|Cult of the Mindflayer 2]]
-- [[Session Notes/Season 1 - Cult of the Mindflayer/Cult of the Mindflayer 1.md|Cult of the Mindflayer 1]]
-
-I also have this from season 1:
-
-- [[Season 1 Plot Points]]
+| Campaign               | Session Notes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Shadows Over Ironspire | <ul><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 9.md\|Shadows Over Ironspire 9]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 8.md\|Shadows Over Ironspire 8]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 7.md\|Shadows Over Ironspire 7]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 6.md\|Shadows Over Ironspire 6]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 5.md\|Shadows Over Ironspire 5]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 4.md\|Shadows Over Ironspire 4]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 3.md\|Shadows Over Ironspire 3]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 2.md\|Shadows Over Ironspire 2]]</li><li>[[Session Notes/Shadows Over Ironspire/Shadows Over Ironspire 1.md\|Shadows Over Ironspire 1]]</li></ul>                                                                                                                                                                                     |
+| Cult of the Mindflayer | <ul><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 8.md\|Cult of the Mindflayer 8]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 7.md\|Cult of the Mindflayer 7]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 6.md\|Cult of the Mindflayer 6]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 5.md\|Cult of the Mindflayer 5]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 4.md\|Cult of the Mindflayer 4]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 3.md\|Cult of the Mindflayer 3]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 2.md\|Cult of the Mindflayer 2]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 1.md\|Cult of the Mindflayer 1]]</li><li>[[Session Notes/_Inactive Campaigns/Cult of the Mindflayer/Cult of the Mindflayer 0.md\|Cult of the Mindflayer 0]]</li></ul> |
+| Frozen Sick            | <ul><li>[[Session Notes/Frozen Sick/Frozen Sick 1.md\|Frozen Sick 1]]</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |

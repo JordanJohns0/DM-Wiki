@@ -20,7 +20,7 @@ Notable Members
 
 # Notable Members
 
-- [[NPCs/Season 1/Thibble Quickshaw.md|Thibble Quickshaw]]
+- [[NPCs/Thibble Quickshaw.md|Thibble Quickshaw]]
 
 # Allies
 
